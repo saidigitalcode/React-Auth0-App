@@ -15,7 +15,7 @@ const Welcome = () => {
           color="primary"
           onClick={() => loginWithRedirect()}
         >
-          Login with Auth0
+          Login
         </Button>
       ) : (
         <>
